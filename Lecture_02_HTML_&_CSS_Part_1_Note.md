@@ -1,6 +1,6 @@
 # <center> Lecture02 HTML & CSS (Part 1) </center>
 
-本篇笔记以 Ally 老师的 Lecture 02 HTML & CSS (Part 1) 为框架，根据 W3School 和 MDN 补充其他常见知识点和难点，旨在辅以 22 期全栈视频，帮助同学建立起基本的学习框架。
+本篇笔记以 Ally 老师的 Lecture 02 HTML & CSS (Part 1) 为框架，根据 W3School 和 MDN 补充其他常见知识点和难点，旨在辅以 23 期全栈视频，帮助同学建立起基本的学习框架。
 
 欲了解更多实际操作和详细内容，请参考附带的文档。
 
