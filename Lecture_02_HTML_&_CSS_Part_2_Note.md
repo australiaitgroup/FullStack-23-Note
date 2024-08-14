@@ -1,6 +1,6 @@
-# <center> Lecture03 HTML & CSS (Part 2) </center>
+# <center> Lecture02 HTML & CSS (Part 2) </center>
 
-本篇笔记以 Ally 老师的 Lecture 03 HTML & CSS (Part 2) 为框架，根据 W3School 和 MDN 进行补充，旨在辅以 23 期全栈视频，帮助同学建立起基本的学习框架。
+本篇笔记以 Ally 老师的 Lecture 02 HTML & CSS (Part 2) 为框架，根据 W3School 和 MDN 进行补充，旨在辅以 23 期全栈视频，帮助同学建立起基本的学习框架。
 
 欲了解更多实际操作和详细内容，请参考附带的文档。
 
@@ -363,3 +363,5 @@ Flex 语法：
 - `flex-shrink`, 定义了项目的压缩比例，默认为 1
 - `flex-basis`，设置的是主轴方向的基准长度，默认值 auto。
 - 可以写复合属性
+
+### Homework: 创建 Card UI Design
