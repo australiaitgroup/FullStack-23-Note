@@ -34,7 +34,11 @@ Reference Document: [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS),
 
 - 作用：让网页内容更加美观，为 HTML 元素设置样式。
 - 语法：<br><br>
-  &emsp;&emsp;![css syntax](./assets/images/css_syntax.gif) - 用选择器找到想要设置样式的 HTML 元素。 - 声明块包含一个或多个以分号分隔的声明。 - 每个声明都包含一个 CSS 属性名称和一个值（键值对），以冒号分隔。 - 多个 CSS 声明用分号分隔，声明块用大括号括起来。
+  &emsp;&emsp;![css syntax](./assets/images/css_syntax.gif)
+  - 用选择器找到想要设置样式的 HTML 元素。
+  - 声明块包含一个或多个以分号分隔的声明。
+  - 每个声明都包含一个 CSS 属性名称和一个值（键值对），以冒号分隔。
+  - 多个 CSS 声明用分号分隔，声明块用大括号括起来。
 
 CSS Comments:
 
@@ -222,6 +226,7 @@ Three Ways to Insert CSS
   - `word-spacing`: Specifies the space between words in a text
   - `text-shadow`: Specifies the shadow effect added to text
 
+
 > 很多 css 属性可以设置复合属性：例如 `font: 12px Arial, sans-serif;`可以一次性设置多个字体相关的属性。
 
 ### Inline and Block
@@ -233,6 +238,29 @@ Three Ways to Insert CSS
 
 元素模式转化：使用 display 属性，如
 `display: block;`, `display: inline;`, `display: inline-block;`
+
+### 设置单行文字上下左右居中两种方法：
+- 设置`line-height` = `height` 
+  ```css
+  div {
+    width: 200px;
+    height: 40px:
+    /* text-align: center 实现水平居中 */
+    text-align: center;
+    /* line-height与height相等实现垂直居中 */
+    line-height: 40px;
+  }
+  ```
+- 使用Flex实现
+  ```css
+  div {
+    width: 200px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  ```
 
 ### Background Property
 
@@ -259,7 +287,7 @@ Three Ways to Insert CSS
 
    ```css
    #example {
-     color: green; /* 1-0-0  - WINS!! */
+     color: green; /* 1-0-0 - WINS!! */
    }
 
    .bodyClass .sectionClass .parentClass [id="myElement"] {
@@ -282,6 +310,16 @@ Three Ways to Insert CSS
 
 - 可以通过各种属性修改边框的样式，粗细和颜色等：如`border-style: solid;`，`border-width: 1px;`，`border-color: black;`
 - 也可以写成符合属性如:`border: 1px solid black;`
+
+- 圆形border：
+  ```css
+  div {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    /* border-radius设为width,height的一半 */
+    border-radius: 100px;
+  }
 
 外边距(margin)：
 
@@ -306,21 +344,23 @@ Three Ways to Insert CSS
 }
 
 #example {
-  /*也可以写符合属性*/
+  /* 也可以写符合属性 */
   margin: 25px 50px 75px 100px;
 }
 ```
 
 - Margin 可以用于设置水平居中：如 `margin: 0 auto;`
 - 另一种方法是使用 flex
-- margin 的两个问题： - Margin 合并塌陷(Margin Collapse) - margin 合并问题
+- Margin 的两个问题： 
+  - Margin 合并塌陷(Margin Collapse)
+  - Margin 合并问题
   `box-sizing`
 - `content-box` width 和 height 设置的是盒子内容区的大小。
 - `border-box` width 和 height 设置的是盒子总大小。
 
-`box-shadow`
+- `box-shadow`
 
-- 语法：`box-shadow: h-shadow v-shadow blur spread color inset;`
+  语法：`box-shadow: h-shadow v-shadow blur spread color inset;`
 
 ### Flex 布局
 
