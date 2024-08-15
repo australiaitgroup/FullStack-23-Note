@@ -204,6 +204,7 @@ Three Ways to Insert CSS
     - bold
     - bolder（多数字体不支持）
   - The `font-size` property sets the size of the text.
+  - Note: `font-family`, `font-size` are required.
 
 - 文本样式属性名：常见用于控制文本的显示效果的属性名：
   - `text-align`: 设置文字居中，左对齐，右对齐，文字拉伸等
