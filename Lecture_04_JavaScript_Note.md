@@ -2,7 +2,7 @@
 
 ## Description
 
-本篇笔记以 Ally 老师的 Lecture 05 JavaScript 为框架，根据 W3School 和 MDN 进行补充，旨在辅助 22 期全栈视频，帮助同学建立起基本的学习框架。
+本篇笔记以 Ally 老师的 Lecture 04 JavaScript 为框架，根据 W3School 和 MDN 进行补充，旨在辅助 23 期全栈视频，帮助同学建立起基本的学习框架。
 
 ## 目录
 
