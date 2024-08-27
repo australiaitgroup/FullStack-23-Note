@@ -1,5 +1,5 @@
 # Git
-本篇笔记以Ray老师的 Lecture 06 Git 为框架，根据W3school进行补充，旨在辅助23期全栈视频，帮助同学建立起基本的学习框架。
+本篇笔记以Ray老师的 Lecture 05 Git 为框架，根据W3school进行补充，旨在辅助23期全栈视频，帮助同学建立起基本的学习框架。
 ## 目录
 - [1. 为什么要使用 Version Control](#1-为什么要使用-version-control)
 - [2. Centralized & Distributed Version Control](#2-centralized--distributed-version-control)
