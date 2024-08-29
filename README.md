@@ -6,3 +6,4 @@
 - [Lecture_03_CSS_&_Sass_Note.md](https://github.com/australiaitgroup/FullStack-23-Note/blob/main/Lecture_03_HTML_%26_CSS_Part_3_Note.md)
 - [Lecture_04_JavaScript_Note.md](https://github.com/australiaitgroup/FullStack-23-Note/blob/main/Lecture_04_JavaScript_Note.md)
 - [Lecture_05_Git_Note.md](https://github.com/australiaitgroup/FullStack-23-Note/blob/main/Lecture_05_Git_Note.md)
+- [Lecture_06_Git_Note.md](https://github.com/australiaitgroup/FullStack-23-Note/blob/main/Lecture_06_ES6_Note.md)
