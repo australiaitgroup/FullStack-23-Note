@@ -2,7 +2,7 @@
 
 ## Description
 
-- 本篇笔记是根据大漠老师 Lecture 08 JavaScript ES6 的课堂内容整理的随堂笔记
+- 本篇笔记是根据Justin老师 Lecture 08 JavaScript ES6 的课堂内容整理的随堂笔记
 - 参考资料：
   - 课程PPT：https://www.canva.com/design/DAGKiRmk2gc/6JWgFJ7F-CkFB5C8IhNOLQ/view?utm_content=DAGKiRmk2gc&utm_campaign=designshare&utm_medium=link&utm_source=viewer#17
 
