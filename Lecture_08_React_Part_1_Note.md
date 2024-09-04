@@ -8,16 +8,27 @@
 
 ## Table of Contents
 
-1. [Callback, Promise, Async/Await](#1-callback-promise-asyncawait)
-   - 1.1 [Callback](#11-callback)
-   - 1.2 [Promise](#12-promise)
-   - 1.3 [Async/Await](#13-asyncawait)
-2. [Modules (Import/Export)](#2-modules-importexport)
-3. [Classes](#3-classes)
-   - 3.1 [JavaScript 类在 React 项目中的使用](#31-javascript-类在-react-项目中的使用)
-   - 3.2 [Classes 是什么](#32-classes-是什么)
-   - 3.3 [OOP 是什么](#33-oop-是什么)
-4. [TypeScript Basics](#4-typescript-basics)
+1. [为什么要学习React？](#1-为什么要学习react)
+2. [What is React?](#2-what-is-react)
+3. [Why use React?](#3-why-use-react)
+4. [How does React work?](#4-how-does-react-work)
+   - 4.1 [Component tree logic structure - Code organization](#41-component-tree-logic-structure---code-organization)
+   - 4.2 [Hypothetical html structure after rendering](#42-hypothetical-html-structure-after-rendering)
+   - 4.3 [How does Virtual DOM work under the hood](#43-how-does-virtual-dom-work-under-the-hood)
+5. [Setting up the Environment](#5-setting-up-the-environment)
+   - 5.1 [Installing Node.js and npm](#51-installing-nodejs-and-npm)
+   - 5.2 [Using Create React App (CRA)](#52-using-create-react-app-cra)
+6. [Basic React Component](#6-basic-react-component)
+7. [JSX](#7-jsx)
+   - 7.1 [What is JSX?](#71-what-is-jsx)
+   - 7.2 [What Happens Behind the Scenes?](#72-what-happens-behind-the-scenes)
+   - 7.3 [JSX vs. HTML](#73-jsx-vs-html)
+8. [ES6 in React - Reference Card](#8-es6-in-react---reference-card)
+9. [Functional/Class Component](#9-functionalclass-component)
+   - 9.1 [What is a Functional Component?](#91-what-is-a-functional-component)
+   - 9.2 [What is a Class Component?](#92-what-is-a-class-component)
+   - 9.3 [Functional Component vs Class Component](#93-functional-component-vs-class-component)
+
 
 Learning Zone
 ![learning_zone](./assets/images/react_p1_learning_zone.png)
