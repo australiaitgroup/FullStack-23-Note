@@ -216,7 +216,9 @@ lessons), and the child component renders it.
 ![how_props_work](./assets/images/props_1.png)
 
 Code Example
+
 ![app_js](./assets/images/props_2.png)
+
 ![course_card_js](./assets/images/props_3.png)
 
 ## 3. State
