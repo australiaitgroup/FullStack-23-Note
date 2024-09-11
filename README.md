@@ -10,3 +10,7 @@
 - [Lecture_07_ES6_Note.md](https://github.com/australiaitgroup/FullStack-23-Note/blob/main/Lecture_07_ES6_Note_Part2.md)
 - [Lecture_08_React_Part_1_Note.md](https://github.com/australiaitgroup/FullStack-23-Note/blob/main/Lecture_08_React_Part_1_Note.md)
 - [Lecture_09_React_Part_2_Note.md](https://github.com/australiaitgroup/FullStack-23-Note/blob/main/Lecture_09_React_Part_2_Note.md)
+
+
+* [澳洲找工作, 澳洲IT](https://jiangren.com.au/) — 匠人学院，找工作，实习，工作内推，全栈班，DevOps学习
+* [Web全栈班](https://jiangren.com.au/program-course/web-code-bootcamp-or-learn-to-code-1) — Web开发全栈项目班
