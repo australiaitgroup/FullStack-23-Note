@@ -6,6 +6,27 @@
 - 参考资料：https://www.canva.com/design/DAGKiq-hNL8/YFq0NLEVMy3sy5ITk_8A9A/view?utm_content=DAGKiq-hNL8&utm_campaign=designshare&utm_medium=link&utm_source=viewer
 
 ## Table of Contents
+1. [Thinking in React](#1-thinking-in-react)
+   1. [What is Thinking in React?](#what-is-thinking-in-react)
+   2. [Declarative vs Imperative](#11-declarative-vs-imperative)
+   3. [Unidirectional Data Flow](#12-unidirectional-data-flow)
+   4. [Steps to Thinking in React](#13-steps-to-thinking-in-react)
+      - [Breaking Down the UI](#step-1-breaking-down-the-ui)
+      - [Build a static version of the UI with props](#step-2-build-a-static-version-of-the-ui-with-props)
+      - [Identifying State](#step-3-identifying-state)
+      - [Adding Interactivity](#step-4-adding-interactivity)
+2. [Frontend Culture in Australia: Trends & Tools](#2-frontend-culture-in-australia-trends--tools)
+   1. [What Defines Frontend Culture in Australia?](#21-what-defines-frontend-culture-in-australia)
+   2. [Key Trends in Frontend Development in Australia](#22-key-trends-in-frontend-development-in-australia)
+   3. [Popular Tools in Australian Frontend Development](#23-popular-tools-in-australian-frontend-development)
+   4. [Agile Methodology and DevOps in Australian Teams](#24-agile-methodology-and-devops-in-australian-teams)
+   5. [Team Collaboration in Australia](#25-team-collaboration-in-australia)
+3. [Code Quality: Readability & Maintainability](#3-code-quality-readability--maintainability)
+   1. [Why Code Quality Matters](#31-why-code-quality-matters)
+   2. [What is Readability](#32-what-is-readability)
+   3. [What is Maintainability](#33-what-is-maintainability)
+   4. [Code Review: A Key to Code Quality](#34-code-review-a-key-to-code-quality)
+   5. [Tools for Enforcing Code Quality](#35-tools-for-enforcing-code-quality)
 
 ## 1. Thinking in React
 
