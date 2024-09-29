@@ -12,6 +12,7 @@
 - [Lecture_09_React_Part_2_Note.md](https://github.com/australiaitgroup/FullStack-23-Note/blob/main/Lecture_09_React_Part_2_Note.md)
 - [Lecture_10_React_Part_3_Note.md](https://github.com/australiaitgroup/FullStack-23-Note/blob/main/Lecture_10_React_Part_3_Note.md)
 - [Lecture_11_React_Part_4_Note.md](https://github.com/australiaitgroup/FullStack-23-Note/blob/main/Lecture_11_React_Part_4_Note.md)
+- [Lecture_11_React_Part_4_Note.md](https://github.com/australiaitgroup/FullStack-23-Note/blob/main/Lecture_12_React_Part_5_Note.md)
 
 
 * [澳洲找工作, 澳洲IT](https://jiangren.com.au/) — 匠人学院，找工作，实习，工作内推，全栈班，DevOps学习
