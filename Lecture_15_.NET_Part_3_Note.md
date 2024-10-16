@@ -165,20 +165,20 @@ MVC 是三个单词的首字母缩写，分别代表 Model（模型）、View（
 - 例如，数据库中的 `Users` 表定义如下：
 
   ```sql
-    CREATE TABLE Users (
-        Id INT PRIMARY KEY,
-        Name NVARCHAR(50),
-        Email NVARCHAR(100)
-    );
+        CREATE TABLE Users (
+            Id INT PRIMARY KEY,
+            Name NVARCHAR(50),
+            Email NVARCHAR(100)
+        );
   ```
 - 对应的 C# Model 类可以定义为：
 
     ``` csharp
-    public class User {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public string Email { get; set; }
-    }
+        public class User {
+            public int Id { get; set; }
+            public string Name { get; set; }
+            public string Email { get; set; }
+        }
     ```
 ### 2.6. 控制器（Controller） 和 Action（动作方法）
 控制器：是应用程序中专门用来处理请求的类。它是用户与系统的中介，接收用户的请求，处理数据并返回结果。
@@ -186,7 +186,8 @@ MVC 是三个单词的首字母缩写，分别代表 Model（模型）、View（
 动作方法：是控制器类中的一个方法，每个方法代表一个特定的请求操作。
 
 ### 示例
-    ```csharp
+
+``` csharp
     public class UsersController : Controller {
         public IActionResult Index() {
             // 处理并返回用户列表
@@ -196,7 +197,7 @@ MVC 是三个单词的首字母缩写，分别代表 Model（模型）、View（
             // 根据 id 获取用户详情并返回
         }
     }
-    ```
+```
 
 控制器和动作方法通过路由来处理特定的 URL 请求，连接前端请求与后端数据逻辑。
 
@@ -210,14 +211,14 @@ MVC 是三个单词的首字母缩写，分别代表 Model（模型）、View（
 
 ### 示例代码
 ```csharp
-public IActionResult GetUserData() {
-    var user = new User {
-        Id = 1,
-        Name = "John Doe",
-        Email = "john.doe@example.com"
-    };
-    return Json(user);
-}
+    public IActionResult GetUserData() {
+        var user = new User {
+            Id = 1,
+            Name = "John Doe",
+            Email = "john.doe@example.com"
+        };
+        return Json(user);
+    }
 ```
 在这个示例中，JsonResult 返回 User 对象的 JSON 序列化数据，使前端可以直接解析和使用该数据。
 
@@ -232,13 +233,13 @@ public IActionResult GetUserData() {
   
 ### 示例代码
 ```csharp
-[Route("api/[controller]")]
-public class UsersController : Controller {
-    [HttpGet("{id}")]
-    public IActionResult GetUser(int id) {
-        // 获取用户信息
+    [Route("api/[controller]")]
+    public class UsersController : Controller {
+        [HttpGet("{id}")]
+        public IActionResult GetUser(int id) {
+            // 获取用户信息
+        }
     }
-}
 ```
 ### 2.9. 路由传值
 
