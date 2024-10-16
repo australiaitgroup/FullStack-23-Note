@@ -229,3 +229,20 @@ NuGet 提供了命令行工具 `nuget.exe` 和 Visual Studio 内置的 NuGet 包
 ```bash
     nuget install <package_name>
 ```
+
+### 2.3.5. 使用 NuGet 管理包的流程
+- 查找包：在 NuGet Gallery 网站或 Visual Studio 中搜索所需的包。
+- 安装包：在项目中添加包引用，NuGet 会自动下载和配置包的依赖项。
+- 更新包：根据需要更新包，以使用最新版本。
+- 移除包：如果不再需要某个包，可以选择卸载它。
+### 在 Visual Studio 中使用 NuGet
+在 Visual Studio 中，NuGet 包管理器提供了图形界面，可以通过以下步骤使用：
+
+- 右键点击项目，选择“管理 NuGet 包”。
+- 在“浏览”选项卡中搜索所需的包并选择安装。
+- 查看“已安装”选项卡，以更新或移除现有包。
+### 总结
+- NuGet 是 .NET 的包管理工具，支持查找、安装、更新和发布包。
+- 它简化了依赖项管理，帮助开发者更高效地集成和管理外部库。
+NuGet 集成于 Visual Studio，也可以通过命令行工具 nuget.exe 使用。
+- NuGet 是 .NET 开发中不可或缺的工具，极大地提高了代码复用和开发效率。
