@@ -193,7 +193,7 @@ MySQL 客户端是用户与 MySQL 服务端交互的工具。它允许用户通�
 
 客户端可以安装在用户的电脑上，也可以通过网络远程连接到 MySQL 服务端。
 
-### 2.2.2. 常见 MySQL 客户端工具
+### 2.2.3. 常见 MySQL 客户端工具
 - **MySQL Command Line Client**：官方提供的命令行工具，用于直接输入 SQL 语句。
 - **MySQL Workbench**：图形化工具，提供更加直观的数据库管理界面。
 - **phpMyAdmin**：基于 Web 的管理工具，通常用于管理 Web 项目的数据库。
