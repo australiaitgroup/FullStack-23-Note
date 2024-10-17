@@ -32,15 +32,15 @@
 
 泛型方法：
 ```csharp
-public void Print<T>(T value) {
-    Console.WriteLine(value);
-}
+    public void Print<T>(T value) {
+        Console.WriteLine(value);
+    }
 ```
 
 使用示例：
 ```csharp
-Print(123);        // 打印整数
-Print("Hello!");   // 打印字符串
+    Print(123);        // 打印整数
+    Print("Hello!");   // 打印字符串
 ```
 通过泛型方法 Print<T>, 我们可以传入任意类型的参数，从而实现代码的重用。
 
