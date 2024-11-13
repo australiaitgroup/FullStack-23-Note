@@ -16,6 +16,15 @@
 - [Lecture_13_.NET_Part_1_Note.md](https://github.com/australiaitgroup/FullStack-23-Note/blob/main/Lecture_13_.NET_Part_1_Note.md)
 - [Lecture_14_.NET_Part_2_Note.md](https://github.com/australiaitgroup/FullStack-23-Note/blob/main/Lecture_14_.NET_Part_2_Note.md)
 - [Lecture_15_.NET_Part_3_Note.md](https://github.com/australiaitgroup/FullStack-23-Note/blob/main/Lecture_15_.NET_Part_3_Note.md)
+- [Lecture_16_.NET_Part_4_Note.md](https://github.com/australiaitgroup/FullStack-23-Note/blob/main/Lecture_16_.NET_Part_4_Note.md)
+- [Lecture_17_.NET_Part_5_Note.md](https://github.com/australiaitgroup/FullStack-23-Note/blob/main/Lecture_17_.NET_Part_5_Note.md)
+- [Lecture_18_.NET_Part_6_Note.md](https://github.com/australiaitgroup/FullStack-23-Note/blob/main/Lecture_18_.NET_Part_6_Note.md)
+- [Lecture_19_.NET_Part_7_Note.md](https://github.com/australiaitgroup/FullStack-23-Note/blob/main/Lecture_19_.NET_Part_7_Note.md)
+- [Lecture_20_React_Part_6_Note.md](https://github.com/australiaitgroup/FullStack-23-Note/blob/main/Lecture_20_React_Part_6_Note.md)
+- [Lecture_21_.NET_Part_8_Note.md](https://github.com/australiaitgroup/FullStack-23-Note/blob/main/Lecture_21_.NET_Part_8_Note.md)
+- [Lecture_22_React_Part_7_Note.md](https://github.com/australiaitgroup/FullStack-23-Note/blob/main/Lecture_22_React_Part_7_Note.md)
+- [Lecture_23_.NET_Part_9_Note.md](https://github.com/australiaitgroup/FullStack-23-Note/blob/main/Lecture_23_.NET_Part_9_Note.md)
+
 
 
 * [澳洲找工作, 澳洲IT](https://jiangren.com.au/) — 匠人学院，找工作，实习，工作内推，全栈班，DevOps学习
