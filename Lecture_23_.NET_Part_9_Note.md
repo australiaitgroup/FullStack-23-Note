@@ -3,7 +3,7 @@
 ## Description
 
 - 本篇笔记是根据Peng Dai老师 Lecture 23 .NET Part9 的课堂内容整理的随堂笔记。
-- 参考资料：https://www.canva.com/design/DAGWJIMZSnk/Z24bL6j6Tu2seCkF_uwvZQ/view?utm_content=DAGWJIMZSnk&utm_campaign=designshare&utm_medium=embeds&utm_source=link#5
+- 参考资料：https://www.canva.com/design/DAGWJIMZSnk/Z24bL6j6Tu2seCkF_uwvZQ/view?utm_content=DAGWJIMZSnk&utm_campaign=designshare&utm_medium=embeds&utm_source=link
 
 ## Table Of Content
 - [1. Preparation Knowledge of C# Collection](#1-preparation-knowledge-of-c-collection)
